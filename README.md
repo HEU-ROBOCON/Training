@@ -52,7 +52,7 @@ Python is an efficient and easy-to-learn language, popular for its concise synta
     - Background: with basic knowledge of C
     ```
 
-    There are no rules for content selection, so you can leave these things out, but you have to at least put something in the file or git won't be able to detect its existence.
+    There are no rules for content selection, so you can leave these things out, but you have to at least put something in the file or git won't be able to detect its existence. The language you used can be either English or Chinese, but the file name should be in English.
 4. Commit and push your changes to your fork of the repository.
 5. Create a pull request to the main repository.
 6. Wait for the review and merge of your pull request.
