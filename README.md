@@ -1,6 +1,7 @@
 # Training
 
 [中文版本](README_zh.md)
+
 training newcomers to the HEU-Robocon vision group
 
 ## Nice to meet you
@@ -12,9 +13,13 @@ Welcome to the Vision Group, and we hope you will have fun as an "eye" in a robo
 ### Background
 
 The vision group mainly deals with software and algorithms, so the mastery of programming languages ​​is essential, and we need to master C++ and Python.
+
 In previous years, we would learn C++ directly at the beginning. Firstly, it is similar to the C you learned in "Computational Thinking". Secondly, in formal competitions, we will mainly use C++ for performance considerations.
+
 However, based on my personal experience, being exposed to C++ right away may make students who have just entered college from high school and have not been exposed to relevant knowledge feel confused or even anxious, thereby gradually eroding their interest in learning. This may not necessarily be a friendly introduction.
+
 It is true that C++ is a language that is closer to computers, but a language like Python that is closer to natural language may make novices more comfortable.
+
 Therefore, this time we decided to give you the right to choose, but don’t worry, this will not make you fall behind others. Believe me, persisting in learning is the greatest victory in itself.
 
 ### C++ VS Python
@@ -38,16 +43,16 @@ Python is an efficient and easy-to-learn language, popular for its concise synta
    - Your background (e.g., previous programming experience)
    - Your goals for learning this language
    - Any specific areas of interest within the vision group
-Example:
+    Example:
 
-```markdown
-# 2025-zhangsan
+    ```markdown
+    # 2025-zhangsan
 
-- Name: Zhang San
-- Background: with basic knowledge of C
-```
+    - Name: Zhang San
+    - Background: with basic knowledge of C
+    ```
 
-There are no rules for content selection, so you can leave these things out, but you have to at least put something in the file or git won't be able to detect its existence
+    There are no rules for content selection, so you can leave these things out, but you have to at least put something in the file or git won't be able to detect its existence.
 4. Commit and push your changes to your fork of the repository.
 5. Create a pull request to the main repository.
 6. Wait for the review and merge of your pull request.
