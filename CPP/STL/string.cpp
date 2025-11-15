@@ -13,6 +13,7 @@ int main() {
 
     // 连接字符串（用+或append）
     greeting += ", World!";
+    // greeting.append(", World!");  // 等价
     cout << "连接后: " << greeting << endl;
 
     // 长度
